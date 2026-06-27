@@ -1,7 +1,9 @@
 # DeepFake Detector
 
 A simple web application that detects whether an uploaded image is **Real** or **DeepFake** using a model trained with **Google Teachable Machine**.
+## Live Demo
 
+**GitHub Pages:** https://sahil-pasalkar101.github.io/Deepfake-Detection-Web-Application/
 ## Features
 
 * Detects Real vs DeepFake images
@@ -15,9 +17,6 @@ A simple web application that detects whether an uploaded image is **Real** or *
 * JavaScript
 * Google Teachable Machine
 
-## Live Demo
-
-**GitHub Pages:** https://sahil-pasalkar101.github.io/Deepfake-Detection-Web-Application/
 
 ## How to Use
 
